@@ -96,7 +96,7 @@ Here are some ideas to get you started:
   </a> -->
 </p>
 
-## ✨ Frontend Dev / Frameworks / Bundlers & Compilers
+## ✨ Data Science
 
 <a href="https://numpy.org/" target="_blank">
             <img src="https://numpy.org/images/logo.svg" alt="Numpy" width="40" height="40"/>
