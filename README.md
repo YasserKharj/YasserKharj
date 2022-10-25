@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/YasserKharj/github-readme-stats">
     <img alt="yasserkharj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YasserKharj&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
-  <a href="https://github.com/maryout/github-readme-stats">
+  <a href="https://github.com/yasserkharj/github-readme-stats">
     <img alt="YasserKharj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasserKharj&langs_count=8&count_private=true&hide=html,shell&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
   </a>
 </p>
