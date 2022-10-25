@@ -99,22 +99,22 @@ Here are some ideas to get you started:
 ## ✨ Data Science
 
 <a href="https://numpy.org/" target="_blank">
-            <img src="https://numpy.org/images/logo.svg" alt="Numpy" width="40" height="40"/>
+            <img src="https://numpy.org/images/logo.svg" alt="Numpy" width="60" height="60"/>
             </a>
             <a href="https://pandas.pydata.org/" target="_blank">
-            <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="80" height="60"/>
+            <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="100" height="80"/>
             </a>
             <a href="https://www.tensorflow.org/" target="_blank">
-            <img src="https://www.gstatic.com/devrel-devsite/prod/vc901a5242fa1f51622c87b6b540eca04c81baea0c307ecf1bb2dd2ea202bf099/tensorflow/images/lockup.svg" alt="Tensorflow" width="80" height="60"/>
+            <img src="https://www.gstatic.com/devrel-devsite/prod/vc901a5242fa1f51622c87b6b540eca04c81baea0c307ecf1bb2dd2ea202bf099/tensorflow/images/lockup.svg" alt="Tensorflow" width="100" height="80"/>
             </a>
             <a href="https://scikit-learn.org/stable/" target="_blank">
-            <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Pytorch" width="80" height="30"/>
+            <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Pytorch" width="100" height="50"/>
             </a>
             <a href="https://opencv.org/" target="_blank">
-            <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="30" height="40"/>
+            <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="50" height="60"/>
             </a>
             <a href="https://keras.io/" target="_blank">
-            <img src="https://keras.io/img/logo.png" alt="Keras" width="80" height="25"/>
+            <img src="https://keras.io/img/logo.png" alt="Keras" width="100" height="45"/>
             </a>
             
 ## ✨ Databases
